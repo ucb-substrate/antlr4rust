@@ -1,6 +1,7 @@
 // #![feature(try_blocks)]
 // #![feature(inner_deref)]
 // #![feature(test)]
+#![allow(warnings)]
 #[macro_use]
 extern crate lazy_static;
 // extern crate test;

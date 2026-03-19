@@ -2,6 +2,7 @@
 // #![feature(inner_deref)]
 // #![feature(specialization)]
 // #![feature(coerce_unsized)]
+#![allow(warnings)]
 //! Integration tests
 
 // #[macro_use]

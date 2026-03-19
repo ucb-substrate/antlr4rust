@@ -1,3 +1,5 @@
+#![allow(warnings)]
+
 mod gen {
     mod csvlexer;
     mod csvlistener;
